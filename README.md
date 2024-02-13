@@ -7,7 +7,7 @@
 
 - 🔭 Currently in **3rd year 5th sem**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 **Explorer , Quick Learner**
 
