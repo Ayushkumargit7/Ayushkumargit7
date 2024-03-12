@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently in **3rd year 5th sem**
+- 🔭 Currently in **3rd year 6th sem**
 
 - 🌱 I’m currently learning **Backend**
 
