@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Currently a Frontend Web Developer from India , levelling up knowledge day by day.</h3>
+<h3 align="center">Currently a Web Developer from India , levelling up knowledge day by day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumargit7&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumargit7" /> </p>
 
