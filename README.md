@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently in **3rd year 6th sem**
+- 🔭 Currently in **4th year 7th sem**
 
-- 🌱 I’m currently learning **Backend**
+- 👨🏽‍💻 **Problem Solver**
 
-- 📫 **Explorer , Quick Learner**
+- 📫 **Explorer and a Quick Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
