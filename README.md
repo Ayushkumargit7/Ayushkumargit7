@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ayush Kumar
 ===================================================================================================================================
 <h1 align="left">Full Stack Developer</h1>
-<h4>Passionate about Development, I focus on creating problem-solving, user-centric solutions. With over 570+ Data Structures and Algorithms problems on LeetCode and 200+ on other platforms, I have honed strong problem-solving skills and algorithmic proficiency. 
+<h4>Passionate about Development, I focus on creating problem-solving, user-centric solutions. With over 600+ Data Structures and Algorithms problems on LeetCode and 200+ on other platforms, I have honed strong problem-solving skills and algorithmic proficiency. 
 
 As a tech enthusiast, I am always eager to learn, adapt quickly, and explore new technologies.</h4>
 
