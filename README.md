@@ -9,7 +9,7 @@ As a tech enthusiast, I am always eager to learn, adapt quickly, and explore new
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently in **4th year 7th sem**
+- 🔭 Currently in **4th year 8th sem**
 
 - 👨🏽‍💻 **Problem Solver**
 
